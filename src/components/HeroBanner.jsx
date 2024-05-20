@@ -36,7 +36,7 @@ const HeroBanner = () => {
         >
             Exercises
         </Typography>
-        <img src={HeroBannerImg} alt="bsnner Image" className='hero-banner-img' />
+        <img src={HeroBannerImg} alt="bsnner" className='hero-banner-img' />
     </Box>
   )
 }
